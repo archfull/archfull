@@ -1,285 +1,286 @@
-# 👨‍💻 Daniel Lourenço Peçanha  
-Analista de Sistemas | Oracle SQL | Python | TI Hospitalar | Big Data (em formação)
+# Daniel Lourenço Peçanha
+
+**Analista de Sistemas e Dados | Oracle SQL/PLSQL | Python | Tasy | TI Hospitalar**
 
 ![Oracle](https://img.shields.io/badge/Database-Oracle-red)
-![PLSQL](https://img.shields.io/badge/Language-PLSQL-blue)
+![PL/SQL](https://img.shields.io/badge/Language-PL%2FSQL-blue)
 ![Python](https://img.shields.io/badge/Language-Python-yellow)
-![Healthcare](https://img.shields.io/badge/Domain-Healthcare-critical)
-![BigData](https://img.shields.io/badge/Focus-Big_Data-green)
+![Healthcare](https://img.shields.io/badge/Domain-TI%20Hospitalar-critical)
+![Big Data](https://img.shields.io/badge/Focus-Big%20Data%20%26%20Analytics-green)
 
 ---
 
-# 📑 Índice
-- [🎯 Posicionamento Profissional](#-posicionamento-profissional)
-- [🏥 Experiência em Ambiente Hospitalar](#-experiência-em-ambiente-hospitalar)
-  - [Administração de ERP Hospitalar](#-administração-de-erp-hospitalar-tasy)
-  - [Investigação Técnica e SQL Avançado](#-investigação-técnica-e-sql-avançado)
-- [🧠 Automação e Análise de Dados com Python](#-automação-e-análise-de-dados-com-python)
-  - [Automação SAME](#-automação-same)
-  - [Conciliação Internação x Faturamento](#-conciliação-internação-x-faturamento-sus)
-- [🏗 Projetos Técnicos Relevantes](#-projetos-técnicos-relevantes)
-- [📊 Evolução para Big Data e Analytics](#-evolução-para-big-data-e-analytics)
-- [🧩 Stack Técnica](#-stack-técnica)
-- [📂 Repositórios Técnicos](#-repositórios-técnicos)
-- [📈 Linha de Desenvolvimento Profissional](#-linha-de-desenvolvimento-profissional)
-- [🎓 Formação Complementar](#-formação-complementar)
-- [🔬 Abordagem Profissional](#-abordagem-profissional)
-- [🚀 Próximos Passos Técnicos](#-próximos-passos-técnicos)
+## 📑 Índice
+
+- [🎯 Perfil profissional](#-perfil-profissional)
+- [🧭 Competências principais](#-competências-principais)
+- [🏥 Experiência em ambiente hospitalar](#-experiência-em-ambiente-hospitalar)
+  - [Sistemas hospitalares e Tasy](#sistemas-hospitalares-e-tasy)
+  - [Investigação técnica com Oracle SQL](#investigação-técnica-com-oracle-sql)
+- [🧠 Projetos e automações](#-projetos-e-automações)
+  - [Automação de agenda do SAME](#1-automação-de-agenda-do-same)
+  - [Conciliação entre internações e faturamento SUS](#2-conciliação-entre-internações-e-faturamento-sus)
+  - [Projeto Paperless](#3-projeto-paperless)
+  - [Análise e otimização de consultas SQL](#4-análise-e-otimização-de-consultas-sql)
+  - [Implantação de telefonia IP](#5-implantação-de-telefonia-ip)
+- [🧩 Stack técnica](#-stack-técnica)
+- [📂 Repositórios](#-repositórios)
+- [🎓 Formação](#-formação)
+- [📈 Trajetória profissional](#-trajetória-profissional)
+- [🔬 Abordagem de trabalho](#-abordagem-de-trabalho)
+- [🚀 Próximos passos](#-próximos-passos)
 - [📫 Contato](#-contato)
----
-## 🎯 Posicionamento Profissional
-
-Profissional com mais de 8 anos de experiência em ambiente hospitalar, atuando na interseção entre:
-
-- Administração de Sistemas
-- Investigação técnica via SQL
-- Governança e integridade de dados
-- Automação de processos com Python
-- Estruturação de informações para suporte à decisão
-
-Atualmente cursando **Big Data e Inteligência Analítica**, com foco na evolução para análise e engenharia de dados aplicada à saúde.
 
 ---
 
-# 🏥 Experiência em Ambiente Hospitalar
+## 🎯 Perfil profissional
 
-**Atuação consolidada em organização hospitalar pública de grande porte,
-com ambiente SUS, alto volume operacional e múltiplos fluxos assistenciais.**
-- Ambiente hospitalar SUS com alto volume operacional, múltiplos fluxos assistenciais e necessidade constante de rastreabilidade, consistência e conformidade de dados.
----
+Profissional com **mais de 9 anos de experiência em ambiente hospitalar**, com atuação em processos administrativos e assistenciais e experiência em **TI hospitalar, sustentação de sistemas, análise de dados e automação de rotinas**.
 
-## 🔹 Administração de ERP Hospitalar (TASY)
+Trabalho na interface entre sistema, processo e dado: investigo falhas, analiso regras de negócio, valido informações em bases Oracle e busco alternativas para reduzir trabalho manual e melhorar a rastreabilidade das operações.
 
-- Gestão de usuários, perfis e regras de acesso
-- Análise funcional e técnica de chamados
-- Investigação de falhas sistêmicas
-- Garantia de integridade de dados assistenciais
-- Suporte direto a áreas clínicas, SAME, auditoria e faturamento
+Minha experiência inclui o ERP hospitalar **Tasy**, consultas com **Oracle SQL/PLSQL**, automações em **Python** e análises relacionadas a fluxos assistenciais, SAME, auditoria e faturamento SUS. Atualmente, curso **Big Data e Inteligência Analítica**, direcionando meu desenvolvimento para análise e engenharia de dados.
 
-Atuação com solido entendimento do fluxo ponta-a-ponta:
-Admissão → Movimentação → Alta → Faturamento
+**Áreas de interesse:**
 
----
-
-## 🔎 Investigação Técnica e SQL Avançado
-
-Desenvolvimento de análises estruturadas em Oracle SQL e PL/SQL, utilizando:
- - CTEs (Common Table Expressions)
- - Window Functions
- - Funções analíticas
- - Validações cruzadas entre bases assistenciais e financeiras
- - Tratamento de inconsistências lógicas
-
-Principais entregas:
- - Identificação de divergências entre movimentação e faturamento
- - Construção de indicadores de ocupação hospitalar
- - Monitoramento de pendências médicas
- - Análise de integridade entre setores e períodos
+- Análise e sustentação de sistemas;
+- Investigação de incidentes e análise de causa raiz;
+- Oracle SQL, DQL do Tasy e validação de dados;
+- Automação de processos com Python;
+- Indicadores, modelagem analítica e qualidade de dados;
+- Integração entre processos hospitalares e sistemas de informação.
 
 ---
 
-# 🧠 Automação e Análise de Dados com Python
+## 🧭 Competências principais
 
-Desenvolvimento de soluções voltadas à eficiência operacional e padronização de dados.
-
----
-
-### 🔹 Automação SAME  
-Extração estruturada de agenda PDF → normalização → exportação Excel padronizada.
-
-Implementações técnicas:
-
-- Tratamento de exceções
-- Normalização de layout
-- Padronização de colunas
-- Geração automatizada de planilha final
-
-📊 Impacto:
-Redução estimada de ~60% no tempo operacional da equipe.
-
-🔗 **Links do Projeto**
-- 📄 [Documentação](https://github.com/archfull/Same/blob/main/README.md)
-- 📓 [Notebook Jupyter](https://github.com/archfull/Same/blob/main/Same_ListaConsulta.ipynb)
-- 📂 [Repositório Completo](https://github.com/archfull/Same)
-
-### 🔹 Conciliação Internação x Faturamento (SUS)
-
-Automação para validação cruzada entre:
-
-- Base assistencial (Censo / Movimentação)
-- Base de faturamento (AIH)
-
-Objetivo:
-Identificar divergências relacionadas a:
-
-- Clínica
-- Caráter da internação
-- Tipo de alta / óbito
-- Data de alta
-
-📊 Impacto:
-- Redução de execução manual (~2h) para segundos
-- Possibilidade de auditoria diária
-- Rastreabilidade estruturada de inconsistências
-- Padronização do processo de conferência
-
-🛠 Tecnologias:
-- Python
-- Pandas
-- Validação estruturada de dados
-- Geração automatizada de relatórios
-
-🔗 **Links do Projeto**
-- 📄 [Documentação](https://github.com/archfull/Faturamento/blob/main/README.md)
-- 📓 [Notebook Jupyter](https://github.com/archfull/Faturamento/blob/main/Bate_faturamento.ipynb)
-- 📂 [Repositório Completo](https://github.com/archfull/Faturamento)
+| Área | Aplicação prática |
+|---|---|
+| Sistemas hospitalares | Sustentação funcional do Tasy, análise de chamados, validação de regras e apoio aos usuários |
+| Oracle SQL/PLSQL | Consultas analíticas, cruzamento de dados, identificação de inconsistências e investigação de comportamento do sistema |
+| Python | Automatização de tarefas, tratamento de dados e geração padronizada de planilhas e relatórios |
+| Processos hospitalares | Entendimento dos fluxos de admissão, movimentação, alta, SAME, auditoria e faturamento |
+| Análise de dados | Estruturação de informações, conferência de indicadores e preparação para análise dimensional e BI |
+| Suporte técnico | Testes, homologação, análise de logs, verificação de integrações e documentação de ocorrências |
 
 ---
 
-# 🏗 Projetos Técnicos Relevantes
+## 🏥 Experiência em ambiente hospitalar
 
-## 🔹 Projeto Paperless
+Minha trajetória na saúde começou em atividades administrativas e evoluiu para experiências que conectam operação hospitalar, sistemas e dados. Esse percurso permite analisar problemas considerando não apenas o comportamento técnico da aplicação, mas também o processo de negócio e os efeitos sobre as áreas envolvidas.
 
-Migração de prontuários físicos para ambiente digital com certificação A3.
+### Sistemas hospitalares e Tasy
 
-Diagnóstico técnico realizado via:
-- Análise detalhada de logs
-- Leitura do código principal (main) da API para identificação do arquivo de configuração
-- Análise de payloads trafegados
-- Identificação de falha de integração
+Atuação em atividades de sustentação e suporte funcional, incluindo:
 
-Solução implementada:
-- Desenvolvimento de script automatizado
-- Distribuição via GPO (Group Policy)
-- Padronização de ambiente
-- Correção em lote de inconsistências
+- Análise e encaminhamento de chamados relacionados ao ERP Tasy;
+- Investigação de falhas sistêmicas e validação de regras de negócio;
+- Administração operacional de usuários, perfis e permissões;
+- Testes e homologação de correções ou mudanças;
+- Análise de dados para apoiar a identificação de divergências;
+- Interface com equipes assistenciais, administrativas, fornecedores e áreas de suporte.
 
-Resultado:
-Aumento significativo de estabilidade no processo e redução de falhas recorrentes.
+O entendimento dos fluxos hospitalares ajuda a avaliar os impactos das ocorrências desde a admissão e movimentação do paciente até a alta, os registros administrativos e o faturamento.
 
----
+### Investigação técnica com Oracle SQL
 
-## 🔹 Implantação de Telefonia IP (VoIP)
+Utilizo consultas Oracle para investigar dados e apoiar a análise de ocorrências. Entre as técnicas aplicadas estão:
 
-- Configuração de aparelhos
-- Suporte à transição tecnológica
-- Apoio operacional na implementação
+- CTEs (*Common Table Expressions*);
+- Junções, subconsultas e agregações;
+- Funções analíticas e *window functions*;
+- Comparações entre bases e validações cruzadas;
+- Identificação de registros duplicados, ausentes ou inconsistentes;
+- Análise de filtros, cardinalidade e custo de execução em consultas selecionadas.
 
----
-
-# 📊 Evolução para Big Data e Analytics
-
-📍 Formação em andamento:  
-Tecnólogo em **Big Data e Inteligência Analítica**  
-FMU (2025–2028)
-
-Foco técnico em:
-- Modelagem relacional e dimensional
-- Estatística aplicada à saúde
-- Estruturação de métricas assistenciais
-- Qualidade e governança de dados
-- Fundamentos de engenharia de dados
-
-Objetivo:
-Consolidar atuação em análise e arquitetura de dados hospitalares.
+Exemplos de aplicação incluem a conferência entre censo hospitalar e faturamento, a construção de consultas para indicadores e a investigação de divergências entre informações de diferentes etapas do processo.
 
 ---
 
-# 🧩 Stack Técnica
+## 🧠 Projetos e automações
 
-## Banco de Dados
-- Oracle SQL
-- PL/SQL
-- Extração e modelagem de dados hospitalares
-- Investigação de inconsistências
+Os projetos abaixo representam aplicações práticas de análise de processos, programação e dados no contexto hospitalar. Os impactos informados são estimativas ou resultados observados em rotinas específicas, não garantias de desempenho para qualquer ambiente.
 
-## Programação
-- Python
-- Pandas
-- XlsxWriter
-- Automação de processos
+### 1. Automação de agenda do SAME
 
-## Sistemas
-- ERP TASY
-- Active Directory
-- Windows Server / File Server
-- Interact Suite
-- GLPI
-- ManageEngine
-- Google Workspace
+**Objetivo:** reduzir o trabalho manual necessário para transformar agendas disponibilizadas em PDF em planilhas padronizadas.
 
-## Governança
-- Controle de contratos
-- Lançamento de notas fiscais
-- Alimentação de KPIHs por centro de custo
-- Rastreabilidade e confiabilidade de dados administrativos
+**Fluxo da solução:**
+
+1. Leitura e extração das informações do PDF;
+2. Tratamento e normalização dos dados;
+3. Padronização das colunas e organização dos registros;
+4. Exportação para Excel em formato estruturado.
+
+**Tecnologias:** Python, Pandas e XlsxWriter.
+
+**Resultado observado:** redução estimada de aproximadamente **60% no tempo operacional** da rotina.
+
+**Repositório:**
+
+- [Documentação](https://github.com/archfull/Same/blob/main/README.md)
+- [Notebook Jupyter](https://github.com/archfull/Same/blob/main/Same_ListaConsulta.ipynb)
+- [Código e arquivos do projeto](https://github.com/archfull/Same)
+
+### 2. Conciliação entre internações e faturamento SUS
+
+**Objetivo:** automatizar a conferência entre informações do censo/movimentação hospitalar e registros de faturamento de AIH.
+
+A solução auxilia na identificação de divergências relacionadas a:
+
+- Clínica;
+- Caráter da internação;
+- Tipo de alta, incluindo óbito;
+- Data de alta;
+- Diferenças entre os registros assistenciais e de faturamento.
+
+**Tecnologias:** Python, Pandas e geração automatizada de relatórios.
+
+**Resultado observado:** uma conferência que demandava cerca de **duas horas de execução manual** passou a ser processada em segundos, permitindo repetir a validação com maior frequência e manter uma trilha estruturada das divergências encontradas.
+
+**Repositório:**
+
+- [Documentação](https://github.com/archfull/Faturamento/blob/main/README.md)
+- [Notebook Jupyter](https://github.com/archfull/Faturamento/blob/main/Bate_faturamento.ipynb)
+- [Código e arquivos do projeto](https://github.com/archfull/Faturamento)
+
+### 3. Projeto Paperless
+
+**Contexto:** implantação de fluxo digital de documentos e prontuários, com recursos de assinatura digital e integração entre componentes do ambiente.
+
+**Atividades técnicas realizadas:**
+
+- Investigação de falhas a partir de logs e comportamento da aplicação;
+- Análise do código principal e de configurações da API;
+- Verificação de dados trafegados na integração;
+- Desenvolvimento de script Python para automatizar uma rotina de limpeza de cache da API EVAL;
+- Distribuição e padronização da execução do script no ambiente Windows por meio de GPO.
+
+**Resultado:** redução da intervenção manual em uma ocorrência recorrente; a execução automatizada da rotina de limpeza passou a levar menos de **5 segundos**. O trabalho também contribuiu para a estabilidade operacional do fluxo digital.
+
+### 4. Análise e otimização de consultas SQL
+
+Investigação de consultas Oracle utilizadas em relatórios e rotinas hospitalares, com comparação de resultados e do comportamento de execução antes e depois das alterações.
+
+Em consultas específicas, foram observadas reduções de tempo como:
+
+| Tempo anterior | Tempo posterior |
+|---:|---:|
+| 18 segundos | 3 segundos |
+| 8 segundos | 1,7 segundo |
+| 45 segundos | 5 segundos |
+
+Os resultados variam conforme a consulta, os filtros, o volume de dados e as condições de execução. A abordagem prioriza preservar o resultado funcional e validar a melhoria por comparação, em vez de alterar a consulta apenas por estilo.
+
+**Repositório:** [Oracle SQL Tuning](https://github.com/archfull/oracle-sql-tuning)
+
+### 5. Implantação de telefonia IP
+
+Participação no processo de transição para telefonia IP, com atividades de configuração de aparelhos e apoio operacional à implantação e à adaptação dos usuários ao novo ambiente.
 
 ---
 
-# 📂 Repositórios Técnicos
+## 🧩 Stack técnica
 
-| Projeto | Descrição |
-|--------|-----------|
-| [Same](https://github.com/archfull/Same) | Automação de agenda SAME |
-| [Faturamento](https://github.com/archfull/Faturamento) | Conciliação Internação x AIH |
-| [Oracle SQL Tuning](https://github.com/archfull/oracle-sql-tuning) | Otimização de queries Oracle |
+### Banco de dados
 
----
+- **Oracle SQL:** consultas, junções, subconsultas, CTEs, agregações e funções analíticas;
+- **PL/SQL:** conhecimentos aplicados à leitura e investigação de rotinas no ambiente Oracle;
+- **DQL do Tasy:** consultas e extrações voltadas a necessidades operacionais e analíticas;
+- Análise de consistência, cruzamento de dados e investigação de divergências.
 
-# 📈 Linha de Desenvolvimento Profissional
+### Programação e automação
 
-| Período | Evolução |
-|----------|----------|
-| 2017–2023 | Base operacional com domínio de fluxo assistencial hospitalar |
-| 2023 | Automação estruturada com Python |
-| 2024 | Consolidação em SQL analítico e investigação sistêmica |
-| 2025+ | Modelagem analítica e engenharia de dados aplicada à saúde |
+- **Python:** automação de tarefas e transformação de dados;
+- **Pandas:** tratamento, validação e consolidação de dados;
+- **XlsxWriter:** geração de planilhas Excel formatadas;
+- **Jupyter Notebook:** desenvolvimento e documentação de análises.
 
----
+### Sistemas e ambiente corporativo
 
-# 🎓 Formação Complementar
+- **ERP Tasy:** suporte funcional e investigação de ocorrências;
+- **Windows e Active Directory:** rotinas de ambiente, usuários e permissões;
+- **GLPI e ManageEngine:** utilização de ferramentas de chamados e suporte;
+- **Interact Suite e Google Workspace:** ferramentas do ambiente corporativo;
+- **GPO:** distribuição e padronização de execução de scripts em ambiente Windows.
 
-Cursos relevantes:
+### Dados e BI
 
-- Fundamentos de Linguagem Python – Data Science Academy (96h)
-- Python para Análise de Dados – Data Science Academy
-- Introdução à Ciência de Dados – Santander Open Academy
-- Programação Orientada a Objetos – Fundação Bradesco
-- ESG – FGV
-- Relações Trabalhistas – FGV
-- Cooperativismo – FGV
-- Colaboração e Engajamento em Grupo – FGV
+- Fundamentos de modelagem relacional e dimensional;
+- Estruturação e validação de indicadores;
+- Preparação de dados para análise;
+- **Power BI:** desenvolvimento em andamento, integrado à formação em análise de dados.
 
 ---
 
-# 🔬 Abordagem Profissional
+## 📂 Repositórios
 
-Atuação orientada por:
-1. Rigor técnico na validação de dados
-2. Estruturação lógica de processos
-3. Comunicação objetiva com áreas assistenciais
-4. Organização e rastreabilidade
-5. Estabilidade operacional
-6. Melhoria contínua baseada em análise
-
-Ambientes hospitalares exigem precisão, conformidade e rastreabilidade — princípios que direcionam minha atuação.
+| Repositório | Descrição |
+|---|---|
+| [Same](https://github.com/archfull/Same) | Automação de agenda do SAME: extração de PDF e geração de planilha estruturada |
+| [Faturamento](https://github.com/archfull/Faturamento) | Conciliação entre censo/movimentação hospitalar e faturamento de AIH |
+| [Oracle SQL Tuning](https://github.com/archfull/oracle-sql-tuning) | Estudos e exemplos de análise e otimização de consultas Oracle |
 
 ---
 
-# 🚀 Próximos Passos Técnicos
+## 🎓 Formação
 
-- Construção de repositório com simulação de Data Warehouse hospitalar
-- Implementação de pipeline ETL demonstrativo
-- Aplicação de estatística descritiva e inferencial em dados simulados
-- Consolidação de portfólio voltado a Data Analytics
+**Tecnólogo em Big Data e Inteligência Analítica — FMU**  
+Em andamento · 2025–2028
+
+Formação complementar relevante:
+
+- Fundamentos de Linguagem Python — Data Science Academy (96 horas);
+- Python para Análise de Dados — Data Science Academy;
+- Introdução à Ciência de Dados — Santander Open Academy;
+- Programação Orientada a Objetos — Fundação Bradesco;
+- ESG: fundamentos e métricas — FGV;
+- Relações Trabalhistas — FGV;
+- Cooperativismo — FGV;
+- Colaboração e Engajamento em Grupo — FGV.
+
+---
+
+## 📈 Trajetória profissional
+
+| Período | Experiência e desenvolvimento |
+|---|---|
+| 2017–2018 | Jovem Aprendiz no SAME, com atividades de arquivo, prontuários e documentação hospitalar |
+| 2018–2020 | Auxiliar Administrativo, com experiência no SAME e no setor de Diagnóstico por Imagem |
+| 2020–atual | Assistente Administrativo na SPDM, com experiências em TI/TIC, SAME, estatística e auditoria hospitalar |
+| 2023–atual | Evolução em análise de sistemas, investigação de dados e automação de rotinas hospitalares |
+| 2025–2028 | Formação superior em Big Data e Inteligência Analítica, em andamento |
+
+---
+
+## 🔬 Abordagem de trabalho
+
+Na investigação de problemas, procuro relacionar quatro dimensões:
+
+1. **Sintoma:** o que falhou, em qual etapa e com qual impacto;
+2. **Evidência:** logs, dados, consultas, parâmetros e comportamento reproduzível;
+3. **Regra de negócio:** o resultado esperado pelo processo e pelo sistema;
+4. **Validação:** teste da hipótese, conferência do resultado e registro da solução.
+
+Essa abordagem orienta meu trabalho em sustentação de sistemas, análise de dados e automação. Priorizo organização, rastreabilidade, comunicação objetiva e soluções que reduzam retrabalho sem comprometer as regras do processo.
+
+---
+
+## 🚀 Próximos passos
+
+- Construir um projeto demonstrativo de Data Warehouse com dados hospitalares sintéticos;
+- Implementar um pipeline ETL documentado, com etapas de extração, transformação e carga;
+- Desenvolver análises estatísticas e indicadores a partir de dados públicos ou simulados;
+- Aprofundar modelagem dimensional, Power BI e fundamentos de engenharia de dados;
+- Ampliar a documentação técnica dos projetos com instruções de execução, exemplos e testes.
 
 ---
 
 ## 📫 Contato
 
-LinkedIn: www.linkedin.com/in/daniel-lourenco-pecanha-692b8b168/  
-Email: Daniel_Gabriel.LP@hotmail.com  
+- **LinkedIn:** [linkedin.com/in/daniel-lourenco-pecanha-692b8b168](https://www.linkedin.com/in/daniel-lourenco-pecanha-692b8b168/)
+- **E-mail:** [Daniel_Gabriel.LP@hotmail.com](mailto:Daniel_Gabriel.LP@hotmail.com)
 
 ---
 
-> Este repositório consolida minha atuação técnica em sistemas hospitalares e minha evolução estruturada para análise e engenharia de dados aplicada à saúde.
+> Este portfólio apresenta minha experiência em sistemas hospitalares, investigação com Oracle SQL e automação com Python, além da evolução em andamento para análise e engenharia de dados aplicada à saúde.
